@@ -1,8 +1,11 @@
+servelts\ServletUsuarioPedir.class
 servelts\ServletUsuarioLogin.class
-beans\alquiler.class
+controller\IApartamentosController.class
 controller\UsuarioController.class
-beans\ingresos.class
 controller\IUsuarioController.class
+servelts\ServletIngresosListar.class
 beans\Usuarios.class
-test\OperacionesBD.class
+beans\Ingresos.class
+controller\ApartamentosController.class
 connection\DBConnection.class
+servelts\ServletUsuarioRegister.class
